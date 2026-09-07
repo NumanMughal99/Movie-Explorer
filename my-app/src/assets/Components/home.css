@@ -1,0 +1,16 @@
+.container{
+    background-color: black;
+    color: white;
+    min-height: 100vh;
+}
+.seearchbar{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    
+}
+.films{
+    display: flex;
+    justify-content: center;
+    gap : 20px
+}
